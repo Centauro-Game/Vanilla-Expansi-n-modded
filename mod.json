@@ -1,0 +1,8 @@
+{
+  "name": "delta-mech-mod",
+  "displayName": "Mod de la Nave Delta",
+  "author": "Centauro-Game",
+  "description": "Añade la unidad voladora Delta con taladro integrado, ametralladora, lanzagranadas y láser continuo.",
+  "version": "1.0",
+  "minGameVersion": "145"
+}
