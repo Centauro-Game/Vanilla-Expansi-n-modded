@@ -1,5 +1,5 @@
 {
-  "type": "flyingUnit",
+  "type": "flying",
   "name": "Delta",
   "description": "A flying unit that has a powerful drill, a machine gun, and a grenade launcher.",
   "flying": true,
