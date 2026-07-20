@@ -1,15 +1,13 @@
 {
   "type": "CoreBlock",
   "name": "Core: MEGA",
-  "description": "The MEGA is a powerful core that can be used to create a strong base. It has a large health pool and can store a lot of resources, making it ideal for late-game bases.",
+  "description": "Powerful late-game core.",
   "health": 8500,
   "armor": 2,
   "size": 6,
-  "unitType": "delta-mech-mod-delta",
   "itemCapacity": 18000,
   "unitCapModifier": 32,
-  "firstTier": false,
-  "research": "core-nucleus",
+  "unitType": "delta",
   "requirements": [
     "copper/10000",
     "lead/10000",
@@ -18,6 +16,5 @@
     "thorium/6000",
     "plastanium/2000"
   ],
-  "researchCostMultiplier": 1.55,
   "category": "effect"
 }
